@@ -78,5 +78,5 @@ print(isHappy(2))
 >> docker inspect --format="{{ .HostConfig.Binds }}" <container_name>
 >> ```
 > * Retrieves the bind mount information for the specified container.
-<br>
+\
 ![my output](./2023312822유선아.png)
